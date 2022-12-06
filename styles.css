@@ -1,0 +1,16 @@
+div{
+    margin: 10px;
+}
+
+body{
+    text-align: center;
+}
+
+h1, h3{
+    margin: 5px;
+}
+
+img{
+    height: 250px;
+    width: 153px;
+}
